@@ -8,7 +8,7 @@
       "repository": "Smart-AI-Memory/attune-ai",
       "requiredCheck": "Attune signed control proof",
       "allowedControls": [
-        "Smart-AI-Memory/attune-governance@sha256:0000000000000000000000000000000000000000000000000000000000000000"
+        "Smart-AI-Memory/attune-governance@sha256:3ae532bb48082443e33e6724ba8b614fc119aabee0ab0671b86af7673d5067e0"
       ],
       "requiredChallenges": [
         "collaboration-projection",
